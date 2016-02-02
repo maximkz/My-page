@@ -1,0 +1,64 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  height: 500px;
+  background-size: cover;
+  background-image:url('http://cs7004.vk.me/c620623/v620623222/1ac06/Nkyn-2SFzqM.jpg');
+}
+
+.jumbotron .container {
+  position: relative;
+  top: 20px;
+}
+
+.jumbotron h1 {
+  color: black;
+  font-size: 48px;  
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: black; 
+  position: relative; 
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.my-life{
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.my-life h2{
+    color: red;
+    font-size: 24px;
+}
+
+.my-life p{
+    font-size: 15px;
+    margin-bottom: 13px;
+}
